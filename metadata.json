@@ -1,0 +1,8 @@
+{
+  "name": "Control de Acceso y Cuotas",
+  "description": "Sistema integral de control de acceso por documento de identidad, registro de entradas/salidas y gestión de alertas por cuotas atrasadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
